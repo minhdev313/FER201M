@@ -1,11 +1,11 @@
-.col-sm-6{
+/* .col-sm-6{
     background-color: aqua;
-}
-.col-sm{
+} */
+/* .col-sm{
     background-color: rgb(146, 143, 231);
 
-}
-.col-md-3{
+} */
+/* .col-md-3{
     background-color: black;
 }
 .col-md{
@@ -13,13 +13,13 @@
 }
 .col-sm-2{
     background-color: brown;
-}
+} */
 /* .col-sm-5{
     background-color: rgb(31, 71, 71);
 } */
-.col-sm-4{
+/* .col-sm-4{
     background-color: rgb(139, 91, 32);
-}
+} */
 /* .col-auto{
     background-color: rgb(117, 117, 19);
 } */
@@ -40,9 +40,9 @@
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
-.list-unstyled{
+/* .list-unstyled{
     background-color: rgb(112, 79, 35);
-}
+} */
 
 .jumbotron {
     padding:70px 30px 70px 30px;
