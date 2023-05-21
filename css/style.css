@@ -14,15 +14,15 @@
 .col-sm-2{
     background-color: brown;
 }
-.col-sm-5{
+/* .col-sm-5{
     background-color: rgb(31, 71, 71);
-}
+} */
 .col-sm-4{
     background-color: rgb(139, 91, 32);
 }
-.col-auto{
+/* .col-auto{
     background-color: rgb(117, 117, 19);
-}
+} */
 .row-header{
     margin:0px auto;
     padding:0px;
